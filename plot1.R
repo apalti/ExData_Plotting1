@@ -1,4 +1,4 @@
-# This program grate a histogram plot of "Global Active Power"
+# This program crates a histogram plot of "Global Active Power"
 #
 #
 setwd("c:/Users/apalti/coursera/ExData_Plotting1")
